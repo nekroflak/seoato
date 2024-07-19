@@ -1,0 +1,489 @@
+
+<!DOCTYPE html><!-- Last Published: Fri Jul 19 2024 11:55:29 GMT+0000 (Coordinated Universal Time) --><html data-wf-domain="smartlunch-2021.webflow.io" data-wf-page="64c9421fe34283382ae7e65f" data-wf-site="60cb0e69aded311a3aa687d6" lang="pl"><head><meta charset="utf-8"/><title>Catering dla firm Częstochowa</title><meta content="Kompleksowe usługi cateringowe dla firm Częstochowa. Obiady dla pracowników z dowozem ➤ Różnorodne menu ➤ Zawsze smaczne, zdrowe i świeże posiłki na czas. Sprawdź!" name="description"/><meta content="Catering dla firm Częstochowa" property="og:title"/><meta content="Kompleksowe usługi cateringowe dla firm Częstochowa. Obiady dla pracowników z dowozem ➤ Różnorodne menu ➤ Zawsze smaczne, zdrowe i świeże posiłki na czas. Sprawdź!" property="og:description"/><meta content="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb120ad0786abfa6a21af5_OG%20-%20Homepage.jpg" property="og:image"/><meta content="Catering dla firm Częstochowa" property="twitter:title"/><meta content="Kompleksowe usługi cateringowe dla firm Częstochowa. Obiady dla pracowników z dowozem ➤ Różnorodne menu ➤ Zawsze smaczne, zdrowe i świeże posiłki na czas. Sprawdź!" property="twitter:description"/><meta content="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb120ad0786abfa6a21af5_OG%20-%20Homepage.jpg" property="twitter:image"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/css/smartlunch-2021.766326d28.min.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Poppins:regular,500,600,700,800,900","Hind:regular,500,700","Roboto:regular,500,700,900","Cabin:regular,500,600,700"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cc49a467e06d57582d67d2_favicon-small.png" rel="shortcut icon" type="image/x-icon"/><link href="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cc49a76b76024f551c552c_favicon-big.png" rel="apple-touch-icon"/><link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+<style>
+  	::-moz-selection { /* Code for Firefox */
+	color: white;
+	background: #FFAB00;
+}
+
+::selection {
+	color: white;
+	background: #FFAB00;
+}
+  
+  :root {
+    --swiper-pagination-color: #000;
+  }
+</style>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KS7J8D9');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Varify.io® code for SmartLunch-->
+<script>
+  window.varify = window.varify || {};
+  window.varify.iid = 1617;
+</script>
+<script src="https://app.varify.io/varify.js"></script>
+<!-- Varify.io® code for SmartLunch-->
+</head><body><div class="modals-wrapper"><div id="modal-1" class="modal _2"><div id="modal-close" scroll="enable" class="modal__close w-embed"><svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L13 13M1 13L13 1L1 13Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div><div class="container-hubspot-form w-container"><div class="modal__main_copy"><div class="modal__heading"><div class="text-heading _200 hb-form-mobile">Chcesz sprawdzić jakie posiłki można zamówić w SmartLunch?</div></div></div><div class="html-embed-100 w-embed w-script"><script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "26664397",
+    formId: "2f8dd538-32ae-485c-a602-8a6698a8e649"
+  });
+</script></div><div class="w-embed"><style>
+.container-hubspot-form {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.container-hubspot-form::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+</style></div></div></div></div><div class="modal _5"><div id="modal-close" scroll="enable" class="modal__close w-embed"><svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L13 13M1 13L13 1L1 13Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div><div class="container-seo-catering-kontakt w-container"><div class="modal__main_copy"><div class="modal__heading"><div class="text-heading _200 hb-form-mobile"><strong class="bold-text-69">Catering dla Firm - Otrzymaj bezpłatną wycenę</strong></div></div></div><div class="html-embed-100 w-embed w-script"><script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "26664397",
+    formId: "1d0427db-23c1-4c11-825d-1455db9f5e79"
+  });
+</script></div><div class="w-embed"><style>
+.container-seo-catering-kontakt {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.container-seo-catering-kontakt::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+</style></div></div></div></div><div class="modal _1"><div id="modal-close" scroll="enable" class="modal__close w-embed"><svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L13 13M1 13L13 1L1 13Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div><div class="w-layout-blockcontainer container-hubspot-form-nav w-container"><div class="modal__main_copy"><div class="modal__heading"><div class="text-heading _200 hb-form-mobile"><strong class="bold-text-69">Skorzystaj z darmowego testu SmartLunch w Twojej firmie</strong></div></div><div class="html-embed-100 w-embed w-script"><script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "26664397",
+    formId: "8010e2d4-bbfc-4b63-b8d2-b0449dd5fe45"
+  });
+</script></div><div class="w-embed"><style>
+.container-hubspot-form-nav {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.container-hubspot-form-nav::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+</style></div></div></div></div></div></div><div data-animation="default" data-collapse="all" data-duration="500" data-easing="ease" data-easing2="ease" role="banner" class="navbar-v01 w-nav"><div class="container-large show-overflow maxwidth-nav"><div class="nav-bar02-wrapper"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866acf6" class="menu-btn-v01 w-nav-button"><div class="btn-nav-item-wrapper"><div class="navbarv01-line-wrapper"><div class="navbarv01-topline top"></div><div class="navbarv01-middle-lines"><div class="navbarv01-middle-black"></div><div class="navbarv01-middle-orange"></div></div><div class="navbarv01-topline bottom"></div></div><div class="nav-bar01-txt-wrapper"><div class="navbarv01-m-txt menu">Menu</div><div class="navbarv01-m-txt hide">Zamknij</div></div></div></div><a href="/" class="navbar01-logolink w-nav-brand"><div class="navbar-logo-svg-link w-embed"><svg width="100%" height="100%" viewBox="0 0 166 36" fill="none" xmlns="http://www.w3.org/2000/svg" alt="SmartLunch Logo link do homepage">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.7022 14.2489C20.3869 14.2489 19.1812 13.8105 18.2496 13.0433C16.9891 14.1393 15.2354 14.8518 13.2625 14.8518C10.7963 14.8518 8.65896 13.7557 7.39848 12.1116C6.57643 12.7692 5.58996 13.1529 4.49389 13.1529C4.16507 13.1529 3.78145 13.0981 3.45262 13.0433L4.11027 20.4417H3.67184C3.28821 20.4417 2.95939 20.7706 3.0142 21.209L3.45262 25.2645C3.50743 25.7029 3.89105 26.0317 4.27468 26.0317C4.27468 26.0317 10.8511 25.2645 13.0432 25.2645C15.1806 25.2645 21.5926 26.0317 21.5926 26.0317C21.9762 26.0317 22.3599 25.7029 22.4695 25.2645L23.0723 21.209C23.1271 20.7706 22.8531 20.4417 22.4147 20.4417H21.8118L22.5243 14.2489C22.3051 14.2489 22.031 14.2489 21.7022 14.2489Z" fill="#FFAB00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.6474 4.3843C20.9898 4.3843 20.3321 4.54871 19.7841 4.82273C18.9072 2.02775 16.3315 1.52588e-05 13.2625 1.52588e-05C10.4675 1.52588e-05 8.05612 1.75373 7.01486 4.21989C6.30241 3.61705 5.37075 3.28823 4.38429 3.28823C1.97293 3.28823 0 5.26115 0 7.72731C0 10.1935 1.97293 12.1664 4.38429 12.1664C5.64477 12.1664 6.79564 11.6184 7.6177 10.7415C8.82337 12.6596 10.9607 13.8653 13.3173 13.8653C15.2902 13.8653 17.0439 12.9885 18.3044 11.6732C19.1264 12.6596 20.3321 13.3173 21.7022 13.3173C24.1136 13.3173 26.0865 11.3444 26.0865 8.87819C26.0865 6.41203 24.0588 4.3843 21.6474 4.3843Z" fill="#FFAB00"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M16.8249 29.3747C15.4 28.8815 13.7559 29.7035 12.9338 30.1968C12.2762 29.7583 10.7417 28.8815 9.15237 29.3747C7.17944 30.0324 6.96023 34.5811 2.68555 31.2928C4.76808 36.0607 7.72748 35.6223 9.6456 33.5946C11.1801 32.0053 12.3858 31.7313 12.8242 31.6765H12.879C13.3174 31.6765 14.6875 31.9505 16.2768 33.5946C18.195 35.6223 21.1543 36.0607 23.2369 31.2928C19.017 34.5262 18.7978 30.0324 16.8249 29.3747Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M102.044 10.9168H103.524V22.6995H110.813V24.0696H102.044V10.9168Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M112.95 18.5893V10.9168H114.43V18.4797C114.43 21.3294 115.91 22.9187 118.376 22.9187C120.787 22.9187 122.267 21.439 122.267 18.5893V10.9168H123.747V18.4797C123.747 22.3159 121.555 24.2888 118.321 24.2888C115.142 24.2888 112.95 22.3159 112.95 18.5893Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M127.199 10.9168H128.569L136.735 21.4938V10.9168H138.16V24.0696H137.009L128.624 13.2733V24.0696H127.199V10.9168Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M141.284 17.548C141.284 13.7665 144.024 10.6975 147.86 10.6975C150.217 10.6975 151.642 11.5196 152.902 12.7801L151.916 13.8761C150.82 12.8349 149.614 12.0676 147.86 12.0676C145.01 12.0676 142.818 14.4242 142.818 17.4932V17.548C142.818 20.617 145.01 22.9735 147.86 22.9735C149.614 22.9735 150.82 22.2611 152.025 21.0554L153.012 22.0419C151.642 23.412 150.162 24.3436 147.805 24.3436C144.024 24.3436 141.284 21.3294 141.284 17.548Z" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M155.533 10.9168H157.012V16.7807H164.521V10.9168H166V24.0696H164.521V18.1508H157.012V24.0696H155.533V10.9168Z" fill="black"/>
+<path d="M32.6631 22.1515L34.362 20.1238C35.5129 21.1102 36.7734 21.7131 38.2531 21.7131C39.4039 21.7131 40.1164 21.2198 40.1164 20.4526V20.3978C40.1164 19.6853 39.6779 19.3017 37.4858 18.6989C34.8552 18.0412 33.2111 17.274 33.2111 14.6982V14.6434C33.2111 12.2321 35.0744 10.6976 37.7598 10.6976C39.6231 10.6976 41.2672 11.3004 42.5825 12.3965L41.1028 14.5886C39.952 13.7666 38.8011 13.2733 37.705 13.2733C36.6089 13.2733 36.0609 13.7666 36.0609 14.4242V14.479C36.0609 15.3559 36.6089 15.6299 38.8559 16.2327C41.4865 16.9452 42.9662 17.8768 42.9662 20.1786V20.2334C42.9662 22.8639 40.9932 24.3436 38.1982 24.3436C36.1705 24.234 34.1976 23.5216 32.6631 22.1515Z" fill="currentColor"/>
+<path d="M45.3775 10.862H48.4465L51.8443 16.4519L55.2422 10.862H58.3112V24.0148H55.4614V15.4107L51.7895 21.0554H51.7347L48.1177 15.4655V24.0148H45.3775V10.862Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M68.5046 10.7524H65.8741L60.2841 24.0148H63.1887L64.3943 21.0554H69.8747L71.0804 24.0148H74.0398L68.5046 10.7524ZM67.1893 14.2598L68.8882 18.5345H65.4904L67.1893 14.2598Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M76.0675 10.862H81.9863C83.6304 10.862 84.8909 11.3552 85.7677 12.1772C86.4802 12.8897 86.8638 13.931 86.8638 15.1914V15.2463C86.8638 17.3836 85.7129 18.6989 84.0688 19.3565L87.2474 24.0696H83.9044L81.1094 19.8498H78.8625V24.0696H76.0675V10.862ZM81.8219 17.274C83.192 17.274 84.014 16.5067 84.014 15.4107V15.3559C84.014 14.0954 83.1372 13.4925 81.7671 13.4925H78.9173V17.274H81.8219Z" fill="currentColor"/>
+<path d="M88.5627 13.5473H92.5086V24.0696H95.3584V13.5473H99.3042V10.862H88.5627V13.5473Z" fill="currentColor"/>
+</svg></div></a><div class="navbarv01-contact-menu hide-mobile-landscape"><a data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad06" href="#" class="button-12 navbar01 w-button">Wypróbuj za darmo</a><a href="https://app.smartlunch.pl/users/sign_in" class="nav-login-link w-inline-block"><div class="nav-login-txt">Zaloguj</div></a></div><nav role="navigation" class="menu-navbar-01 w-nav-menu"><div class="menu-navbar01-wrapper"><div class="menu-navbar01-left"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad0e" class="nav-link-o1-holder"><div class="nav-link-01 product">Produkty i usługi</div><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/63487efabfe7ae529db2e994_ICON%20Right.webp" loading="lazy" alt="" class="arrow-small-navbar01 services"/></div><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad12" class="nav-link-o1-holder"><div class="nav-link-01 product">Rozwiązania techniczne</div><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/63487efabfe7ae529db2e994_ICON%20Right.webp" loading="lazy" alt="" class="arrow-small-navbar01 product"/></div><div class="nav-link-o1-holder"><a href="/jak-to-dziala" class="nav-link-01 w-nav-link">Jak to działa?</a></div><div class="nav-link-o1-holder"><a href="/koszt-dofinansowania-posilkow" class="nav-link-01 w-nav-link">ile to kosztuje?</a></div><div class="nav-link-o1-holder"><a href="/benefity" class="nav-link-01 w-nav-link">Posiłek jako benefit</a></div><div class="nav-link-o1-holder"><a href="/blog" class="nav-link-01 w-nav-link">Blog</a></div><div class="nav-link-o1-holder"><a href="/kontakt" class="nav-link-01 w-nav-link">Kontakt</a></div><div class="nav-link-o1-holder"></div><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad26" class="nav-link-o1-holder"><div class="nav-link-01 product">Kariera i oferty pracy</div><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/63487efabfe7ae529db2e994_ICON%20Right.webp" loading="lazy" alt="" class="arrow-small-navbar01 jobs"/></div><div class="btn-menu--wrapper-nav hide-mobile-landscape"><div class="menu-btn-v01 w-nav-button"><div class="btn-nav-item-wrapper"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6367dc22befaed60fdf938ad_burger%20X.svg" loading="lazy" alt=""/></div></div></div><div class="navbar01-btn-wrapper show-mobile-landscape"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad32" class="margin-bottom margin-small"><a href="#" class="button s borders-org w-inline-block"><div class="text-action xl">Wypróbuj za darmo</div></a></div><a href="https://app.smartlunch.pl/users/sign_in" class="button-11 brand-yellow w-button">Zaloguj się</a></div><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad38" class="btn-nav-item-wrapper is-absolute show-mobile-landscape"><div class="navbarv01-line-wrapper"><div class="navbarv01-topline"></div><div class="navbarv01-middle-lines"><div class="navbarv01-middle-black"></div><div class="navbarv01-middle-orange"></div></div><div class="navbarv01-topline"></div></div><div class="navbarv01-m-txt spec">Menu</div></div></div><div class="menu-navbar01-right"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad42" class="back-navbar01-wrapper show-mobile-landscape"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/63497d3ec19d643d790cd6d9_ICON%20Right%20(1).webp" loading="lazy" alt="" class="back-arrow-navbar01"/><div class="navbar01-back-txt">Powrót</div></div><div class="nav-product-grid products"><a href="/lunchomat" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/63484ec76358e654bc007db1_lunchomat%201.webp" loading="lazy" alt=""/></div><div class="nav-prduct-heading">Lunchomat</div><div class="nav-product-txt">Urządzenie do bezobsługowego wydwania posiłków</div></a><a href="/smartbox" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/634852c1de1cdd3f882f14b2_Grupa%202nj%201.webp" loading="lazy" alt="" class="nav-smartphone"/></div><div class="nav-prduct-heading">Smartbox</div><div class="nav-product-txt">Urządzenie do szybkiego zamawiania posiłków</div></a><a href="/lunch-card" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6348532459416142a06c14db_LunchCard1%201.webp" loading="lazy" alt="" class="nav-bar01-card"/></div><div class="nav-prduct-heading">Lunchcard</div><div class="nav-product-txt">Karty lunchowe dla pracowników</div></a><a href="https://www.smartlunch.pl/oprogramowanie-dla-kantyny" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6348534475d635acf206725c_smartphone2%201.webp" loading="lazy" alt=""/></div><div class="nav-prduct-heading">Aplikacja</div><div class="nav-product-txt">Oprogramowanie do zarządzania procesami kantyny</div></a></div><div class="nav-product-grid services"><a href="/catering24" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6500bef62859e0d06b5fca20_14%20-%20Makaron%20sojowy%20z%20kurczakiem.webp" loading="lazy" alt="" class="image-248"/></div><div class="nav-prduct-heading">Catering dla pracowników</div><div class="nav-product-txt">Wirtualny proces zamawiania i rozliczania posiłów</div></a><a href="/kantyna-dla-pracownikow" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6500bf4762adb9547f14140a_Group%20447.webp" loading="lazy" alt="" class="image-248"/></div><div class="nav-prduct-heading">Optymalna kantyna</div><div class="nav-product-txt">Prowadzenie kantyny przygotowującej i wydającej posiłki</div></a><a href="/posilki-regeneracyjne" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6500bf0f5a3fe05ee5876c2e_Group%20446.webp" loading="lazy" alt="" class="image-248"/></div><div class="nav-prduct-heading">Posiłki regeneracyjne</div><div class="nav-product-txt">Smaczne i zgodne z prawem posiłki profilaktyczne</div></a><a href="/rozliczenia" class="nav-product-item w-inline-block"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6500bf662d18f8e5ea574fdb_Group%20451.webp" loading="lazy" alt="" class="image-248"/></div><div class="nav-prduct-heading">Integracja rozliczeń</div><div class="nav-product-txt">Catering, kantyna i automaty wendingowe na jednej fakturze</div></a></div><div class="nav-product-grid work"><div class="works-title-nav">Nasze rekrutacje:</div><div class="slider-navbar"><div class="swiper-nav-holder"><div class="swiper swiper-nav w-dyn-list"><div fs-cmsslider-element="list" role="list" class="swiper-wrapper nav-bar-swiper w-dyn-items"><div role="listitem" class="swiper-slide nav-slide-swiper w-dyn-item"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad9c" class="nav-work-item slidernav-item"><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ad9d-6866acf3" class="slider-info-holder"><div class="nav-prduct-heading text-align-left-desktop-centertablet">Specjalista ds. SEO/SEM i automatyzacji marketingu</div><div class="text-slider-info bod-text hide-tablet">B2B 10 000 - 11 000 zł netto</div><div class="text-slider-info margin-1rem hide-tablet">UoP 9 000 - 10 000 zł brutto</div><a href="/oferty/specjalista-ds-seo-sem-i-automatyzacji-marketingu" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a><a href="#" class="button-12 navbar01 btn-jobs hide w-button">Zobacz wszystkie</a></div><img loading="lazy" id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ada7-6866acf3" src="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/668fa984374418018e3b0b80_HR_2.png" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/668fa984374418018e3b0b80_HR_2-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/668fa984374418018e3b0b80_HR_2-p-800.png 800w, https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/668fa984374418018e3b0b80_HR_2.png 900w" class="slider-img-nav"/></div></div><div role="listitem" class="swiper-slide nav-slide-swiper w-dyn-item"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad9c" class="nav-work-item slidernav-item"><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ad9d-6866acf3" class="slider-info-holder"><div class="nav-prduct-heading text-align-left-desktop-centertablet">Specjalista / -tka ds. sprzedaży telefonicznej</div><div class="text-slider-info bod-text hide-tablet w-dyn-bind-empty"></div><div class="text-slider-info margin-1rem hide-tablet">UoP 5 300 - 5 600 zł brutto</div><a href="/oferty/specjalista-tka-ds-sprzedazy-telefonicznej" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a><a href="#" class="button-12 navbar01 btn-jobs hide w-button">Zobacz wszystkie</a></div><img loading="lazy" id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ada7-6866acf3" src="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/65df0aa557dc316d53e92cfb_Call_Center_(1).webp" alt="" class="slider-img-nav"/></div></div><div role="listitem" class="swiper-slide nav-slide-swiper w-dyn-item"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad9c" class="nav-work-item slidernav-item"><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ad9d-6866acf3" class="slider-info-holder"><div class="nav-prduct-heading text-align-left-desktop-centertablet">Key Account Manager (woj. kujawsko-pomorskie, warmińsko-mazurskie)</div><div class="text-slider-info bod-text hide-tablet w-dyn-bind-empty"></div><div class="text-slider-info margin-1rem hide-tablet">UOP 8030-9470 brutto</div><a href="/oferty/key-account-manager-kujawsko-pomorskie" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a><a href="#" class="button-12 navbar01 btn-jobs hide w-button">Zobacz wszystkie</a></div><img loading="lazy" id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ada7-6866acf3" src="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/65df0aa5897b652f3d1101a8_Frame_737.webp" alt="" class="slider-img-nav"/></div></div><div role="listitem" class="swiper-slide nav-slide-swiper w-dyn-item"><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866ad9c" class="nav-work-item slidernav-item"><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ad9d-6866acf3" class="slider-info-holder"><div class="nav-prduct-heading text-align-left-desktop-centertablet">Aplikacja Spontaniczna</div><div class="text-slider-info bod-text hide-tablet">Nie mamy obecnie oferty dla Ciebie? </div><div class="text-slider-info margin-1rem hide-tablet">Możesz tutaj przekazać nam swoją aplikację!</div><a href="/oferty/aplikacja-spontaniczna" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a><a href="#" class="button-12 navbar01 btn-jobs hide w-button">Zobacz wszystkie</a></div><img loading="lazy" id="w-node-_8f2ba865-e288-726b-f9ff-186a6866ada7-6866acf3" src="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/667acaf4a1f48a5ef84ec539_team-3.png" alt="" sizes="100vw" srcset="https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/667acaf4a1f48a5ef84ec539_team-3-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/667acaf4a1f48a5ef84ec539_team-3-p-800.png 800w, https://cdn.prod.website-files.com/60cb0e69aded31fda6a687da/667acaf4a1f48a5ef84ec539_team-3.png 900w" class="slider-img-nav"/></div></div></div></div><div class="prev-nav-slider"><div class="w-embed"><svg width="18" height="34" viewBox="0 0 18 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M17 0.999997C10.7516 7.24839 7.24839 10.7516 1 17L17 33" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+</svg></div></div><div class="next-nav-slider"><div class="w-embed"><svg width="18" height="34" viewBox="0 0 18 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 33C7.24839 26.7516 10.7516 23.2484 17 17L1 1" stroke="currentColor" stroke-width="3" stroke-linejoin="round"/>
+</svg></div></div></div><div class="swiper-pagination nav-pagination"></div></div><div class="works-title-nav">Dowiedz się więcej o SmartLunch:</div><div class="nav-work-2grid"><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866adae-6866acf3" data-w-id="8f2ba865-e288-726b-f9ff-186a6866adae" class="nav-work-item"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/649c94f43d6f2b384d43fd16_team.webp" loading="lazy" alt="" class="nav-bar01-card"/></div><div class="nav-prduct-heading">Poznaj nasz zespół</div><a href="https://www.smartlunch.pl/blog/poznaj-nasz-zespol" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a></div><div data-w-id="8f2ba865-e288-726b-f9ff-186a6866adb5" class="nav-work-item no-slider"><div class="nav-product-img-holder"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/649c94d95269c80f1029b777_kultura.webp" loading="lazy" alt="" class="nav-bar01-card"/></div><div class="nav-prduct-heading">Kultura organizacyjna</div><a href="https://www.smartlunch.pl/blog/jak-pracujemy" class="button-12 navbar01 btn-jobs w-button">Więcej informacji</a></div></div><div class="navbar-social-flex hide"><div class="works-title-nav">Poznajmy się blizej w naszych social mediach:</div><div class="navbar-social-flex icons"><a href="https://www.facebook.com/SmartLunchPoland/?locale=pl_PL" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/649c954a915b143c5a58528e_Vector.svg" loading="lazy" alt=""/></a><a href="https://www.linkedin.com/company/smartlunchpolska/?originalSubdomain=pl" target="_blank" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/649c9564efd18fb4cfc5aed8_Vector%20(1).svg" loading="lazy" alt=""/></a></div></div></div><div id="w-node-_8f2ba865-e288-726b-f9ff-186a6866adc4-6866acf3" class="intresting-link-wrapper hide"><div class="margin-bottom margin-small"><div class="text-block-211">Ciekawe linki:</div></div><a href="#" class="interseting-links">jak szybko złożyć zamówienie <span class="bold-link-interesting"><strong>Sprawdź</strong></span></a><a href="#" class="interseting-links">jak szybko złożyć zamówienie <span class="bold-link-interesting"><strong>Sprawdź</strong></span></a><a href="#" class="interseting-links">jak szybko złożyć zamówienie <span class="bold-link-interesting"><strong>Sprawdź</strong></span></a></div><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6367de470001034d3df690dd_Vector%20(1).svg" loading="lazy" alt="" class="nav-bar-right-shadow"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6367de476666500f17e7298b_Vector.svg" loading="lazy" alt="" class="nav-bar-left-top-shadow"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6367de47a0bbe11919a93a4f_Vector%20(2).svg" loading="lazy" alt="" class="nav-bar-right-bottom-shadow"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/6367df793a6cea1b76b62787_Vector%20(3).svg" loading="lazy" alt="" class="nav-bar-left-bottom-shadow"/></div></div></nav><div class="navbarv01-custom-css w-embed"><style>
+.menu-navbar01-wrapper {
+background: rgba( 255, 255, 255, 0.35 );
+filter: drop-shadow(0px 4px 24px -2px rgba(0, 0, 0, 0.2));
+backdrop-filter: blur( 20px );
+-webkit-backdrop-filter: blur( 20px );
+}
+
+
+.nav-product-item:hover {
+filter: drop-shadow(0px 18px 24px rgba(40, 41, 61, 0.06));
+filter: drop-shadow(0px 36px 48px rgba(96, 97, 112, 0.2));
+}
+
+.nav-contact-item {
+filter: drop-shadow(0px 18px 24px rgba(0, 0, 0, 0.15));
+filter: drop-shadow(0px 36px 48px rgba(0, 0, 0, 0.3));
+}
+</style></div></div></div></div><div class="global-live-css w-embed"><style>
+
+.casestudy-video, .modal__youtube__video, .jtd-video, .hero_temp--video {
+	-webkit-mask-image: -webkit-radial-gradient(white, black);
+}
+
+.modal, .navbar__bg, .regulamin_back_btn, .dropdown--drop {
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    backdrop-filter: saturate(180%) blur(20px);
+		}
+
+@media screen and (max-width: 991px) {
+   	.nav-menu-items {
+			-webkit-backdrop-filter: saturate(180%) blur(20px);
+			backdrop-filter: saturate(180%) blur(20px);
+     	border: 2px solid rgba( 255, 255, 255, 0.18 );
+      }
+      }
+      
+      	
+.blogpost-title, .blog-category_content_title {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  }
+  
+
+</style></div><div class="page-live-css w-embed"></div><section class="hero_temp"><div class="section-hero_temp__--blob w-embed"><style>
+
+
+
+.section-hero_temp__--blob {
+	background: linear-gradient(220deg, #FFF8D6 10.9%, rgba(255, 248, 214, 0) 72.96%);
+	border-radius: 30% 80% 70% 30%;
+	animation: transform 20s ease-in-out infinite both alternate;
+}
+
+@keyframes transform
+{
+    0%,
+   20% { border-radius: 40% 60% 42% 58% / 41% 51% 49% 59%; }
+   40% { border-radius: 37% 63% 51% 49% / 37% 65% 35% 63%; } 
+   60% { border-radius: 37% 63% 51% 49% / 30% 30% 70% 70%; } 
+   80% { border-radius: 36% 64% 64% 36% / 64% 48% 52% 36%; }
+   100% { border-radius: 33% 67% 70% 30% / 30% 30% 70% 70%; } 
+}
+
+</style></div><div class="container"><div class="hero_temp-header"><div class="hero_temp-content"><div id="w-node-_6ead57bb-4664-2f5c-370f-32badaf44153-daf4414f" class="hero_temp-intro"><div class="hero_temp__intro--heading"><h1>Catering dla firm Częstochowa</h1></div><div class="hero_temp__intro--body"><div class="text-body l">Zapewnij dostęp do zróżnicowanych posiłków swoim pracownikom, oszczędzaj czas i minimalizuj koszty. Oferujemy profesjonalny catering dla firm, obiady, przekąski, kanapki i posiłki regeneracyjne.<br/><br/>Dla naszych Klientów udostępniamy intuicyjną platformę SmartLunch, za pomocą której możesz zamawiać posiłki z lokalnych restauracji. Obiady dla firm zostaną dostarczone przez wybrany catering w miejsce pracy o określonej godzinie. Stałość zleceń pozwala nam oferować konkurencyjne ceny zachowując najwyższej jakości usługi cateringowe.</div></div><div id="w-node-_64d69b18-51bb-2a06-fb66-4ad9b9d87699-daf4414f" class="columns-43 w-row"><div class="column-75 w-col w-col-6"><div class="hero_temp__intro--button"><div scroll="disable" data-w-id="6ead57bb-4664-2f5c-370f-32badaf4415b" class="button-cta-global"><a href="#" class="button p w-inline-block"><div class="text-action xl">Pobierz przykładowe menu</div></a></div></div></div><div class="column-76 w-col w-col-6"><div class="hero_temp__intro--button"><div scroll="disable" class="button-cta-global"><a id="w-node-_72f9e33a-34e4-9b6d-acd6-82de5fc9128d-daf4414f" data-w-id="72f9e33a-34e4-9b6d-acd6-82de5fc9128d" href="#" class="button p black-color w-inline-block"><div class="text-action">Zamów Kontakt</div></a></div></div></div></div></div></div><div id="w-node-_6ead57bb-4664-2f5c-370f-32badaf4415f-daf4414f" class="div-block-220"><div class="hero_temp__img--blob w-embed"><style>
+
+
+
+.hero_temp__img--blob {
+	background: currentCOlor;
+	border-radius: 30% 80% 70% 30%;
+  animation: transform 20s ease-in-out infinite both alternate;
+}
+
+@keyframes transform
+{
+    0%,
+   20% { border-radius: 40% 60% 42% 58% / 41% 51% 49% 59%; }
+   40% { border-radius: 37% 63% 51% 49% / 37% 65% 35% 63%; } 
+   60% { border-radius: 37% 63% 51% 49% / 30% 30% 70% 70%; } 
+   80% { border-radius: 36% 64% 64% 36% / 64% 48% 52% 36%; }
+   100% { border-radius: 33% 67% 70% 30% / 30% 30% 70% 70%; } 
+}
+
+</style></div><div class="youtube-4"><div class="yt-player-css w-embed"><style>
+
+.youtube-player {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+  margin: 5px;
+}
+
+.youtube-player iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+  background: transparent;
+}
+
+.youtube-player img {
+  object-fit: cover;
+  display: block;
+  left: 0;
+  bottom: 0;
+  margin: auto;
+  max-width: 100%;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  border: none;
+  height: auto;
+  cursor: pointer;
+  -webkit-transition: 0.4s all;
+  -moz-transition: 0.4s all;
+  transition: 0.4s all;
+}
+
+.youtube-player img:hover {
+  -webkit-filter: brightness(75%);
+  -moz-filter: brightness(75%);
+  filter: brightness(75%);
+}
+
+.youtube-player .play {
+  height: 48px;
+  width: 68px;
+  left: 50%;
+  top: 50%;
+  margin-left: -34px;
+  margin-top: -24px;
+  position: absolute;
+  background: url("https://i.ibb.co/j3jcJKv/yt.png") no-repeat;
+  cursor: pointer;
+}
+</style></div><div data-id="OuJfKNQfGJA" class="youtube-player"></div><div class="yt-player-js w-embed w-iframe w-script"><script>
+function labnolIframe(div) {
+  var iframe = document.createElement("iframe");
+  iframe.setAttribute(
+    "src",
+    "https://www.youtube.com/embed/" + div.dataset.id + "?autoplay=1&rel=0"
+  );
+  iframe.setAttribute("frameborder", "0");
+  iframe.setAttribute("allowfullscreen", "1");
+  iframe.setAttribute(
+    "allow",
+    "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  );
+  div.parentNode.replaceChild(iframe, div);
+}
+
+function initYouTubeVideos() {
+  var playerElements = document.getElementsByClassName("youtube-player");
+  for (var n = 0; n < playerElements.length; n++) {
+    var videoId = playerElements[n].dataset.id;
+    var div = document.createElement("div");
+    div.setAttribute("data-id", videoId);
+    var thumbNode = document.createElement("img");
+    thumbNode.src = "https://i.ytimg.com/vi/ID/hqdefault.jpg".replace(
+      "ID",
+      videoId
+    );
+    div.appendChild(thumbNode);
+    var playButton = document.createElement("div");
+    playButton.setAttribute("class", "play");
+    div.appendChild(playButton);
+    div.onclick = function () {
+      labnolIframe(this);
+    };
+    playerElements[n].appendChild(div);
+  }
+}
+
+document.addEventListener("DOMContentLoaded", initYouTubeVideos);
+
+</script></div></div></div></div></div></section><div class="home__hero_clients"><div class="symbol-script w-embed"><style>
+
+.hh__clients__looper {
+  position: absolute;
+  white-space: nowrap;
+  will-change: transform;
+  animation: marquee-horizontal 30s linear infinite;
+}
+
+@keyframes marquee-horizontal {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+</style></div><div id="w-node-_8fb10681-4016-a50f-c1e2-66acbc5a4127-bc5a4126" class="hh__clients__copy"><div class="w-dyn-list"><div role="list" class="w-dyn-items"><div role="listitem" class="w-dyn-item"><div class="w-embed"><div class="text-heading _500">583<span> - tyle firm nam zaufało!</span></div></div></div></div></div></div><div id="w-node-_8fb10681-4016-a50f-c1e2-66acbc5a412a-bc5a4126" class="hh__clients_wrapper"><div class="hh__clients_logo_mask right"></div><div class="hh__clients_logo_mask"></div><div class="hh__clients__looper"><div class="logo_row"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo.webp" loading="lazy" sizes="(max-width: 479px) 70px, 170px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-800.webp 800w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-1080.webp 1080w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo.webp 2598w" alt="Logo - maspex" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31806ea68986_polpharma-logo-1.png" loading="lazy" alt="Logo - polpharma" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314e41a68954_Atlas.svg" loading="lazy" alt="Logo - ATLAS" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3134c5a68955_Henkel.svg" loading="lazy" alt="Logo - Henkel" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3149cba6895f_saint-gobain.svg" loading="lazy" alt="Logo - Saint-Gobain" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312454a68958_Mercedes.svg" loading="lazy" alt="Logo - Mercedes Benz" class="hh__clients__logo"/></div><div class="logo_row"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo.webp" loading="lazy" sizes="(max-width: 479px) 70px, 170px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-800.webp 800w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo-p-1080.webp 1080w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded317de6a6897e_maspexlogo.webp 2598w" alt="Logo - maspex" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31806ea68986_polpharma-logo-1.png" loading="lazy" alt="Logo - polpharma" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314e41a68954_Atlas.svg" loading="lazy" alt="Logo - ATLAS" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3134c5a68955_Henkel.svg" loading="lazy" alt="Logo - Henkel" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3149cba6895f_saint-gobain.svg" loading="lazy" alt="Logo - Saint-Gobain" class="hh__clients__logo"/><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312454a68958_Mercedes.svg" loading="lazy" alt="Logo - Mercedes Benz" class="hh__clients__logo"/></div></div></div></div><div class="section non-margin-bottom"><div class="container"><div class="temp_baner__wrap"><div class="temp_baner--heading"><h2 class="heading-2 h1">Obiady dla pracowników - Różnorodne menu</h2></div><div class="temp_baner--body _2-column"><div class="text-body l">Współpraca z zaufanymi restauratorami w Częstochowie i okolicach oraz na terenie całego kraju pozwala nam oferować Państwu profesjonalny catering dla firm. Platforma SmartLunch umożliwia zamawianie dań z różnych restauracji, dzięki czemu możesz zapewnić swoim pracownikom duży wybór różnorodnych potraw. W ofercie domowe obiady, zupy, kanapki, sałatki, przekąski, śniadanie oraz kolacje. Proponujemy dania zarówno kuchni polskiej jaki i europejskiej i azjatyckiej, w tym dania mięsne, dietetyczne, wegetariańskie i wegańskie. Współpracujemy tylko ze sprawdzonymi restauratorami, dzięki czemu możemy Państwu zagwarantować, że dostarczane obiady dla firm zawsze przygotowywane z wysokiej jakości, starannie wyselekcjonowanych, świeżych składników. W trosce o kompleksowość naszych usług, dla naszych Klientów zapewniamy dodatkowo usługi cateringu na imprezy firmowe: bankiety, konferencje, pikniki i inne uroczystości.<br/><br/>Zamówienia dostarczane są w ekologicznych, jednorazowych utrzymujących ciepło opakowaniach i przewożone w specjalnych termoboxach, dzięki czemu każdy otrzymuje świeże i gorące jedzenie. Opakowania są podpisane, dzięki czemu pracownik szybko znajdzie swój posiłek<br/></div></div></div></div></div><div id="step-4" class="section non-margin-bottom"><div class="container"><div class="text_block"><div class="text_block--content center"><div class="symbol--richtext center-mobile w-richtext"><h4>Korzyści dla firm i pracowników wynikające z zapewnienia posiłków grupowych<br/><br/></h4><p>Zapewniając grupowe posiłki dla pracowników nie tylko dostarczasz im energii niezbędnej do pracy. W ten sposób podnosić także lojalność podwładnych oraz podnosisz prestiż firmy. Pracownicy jedząc razem integrują się i nawiązują relacje, dodatkowo nie opuszczają miejsca pracy, dzięki czemu przerwy nie są nadużywane.<br/><br/></p><p>Koszt świadczenia możesz wrzucić w koszty, dodatkowo posiłki pracownicze do 450 zł/mc na osobę zwolnione są ze składek ZUS. Dodatkowo oszczędzasz, gdy pracownika nie ma w pracy.<br/></p></div></div><div id="w-node-_05abf96e-dcb7-30fe-8371-1f14c3a41d5d-c3a41d52" class="text-block-img-wrap"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb2d46404d62ffa24d3633_zadowoleni-pracownicy-942382c44037afa9964bc052820f9dc7-removebg-preview.webp" loading="lazy" width="100" alt="catering dla pracowników" class="text_block--img"/></div></div></div></div><div id="step-4" class="section non-margin-bottom"><div class="container"><div class="text_block"><div class="text-block-img-wrap"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318fe4a68928_Swieze.webp" loading="lazy" width="100" alt="Dofinansowanie posiłków dla pracowników" sizes="(max-width: 479px) 90vw, (max-width: 767px) 80vw, (max-width: 991px) 70vw, (max-width: 1439px) 40vw, 518px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318fe4a68928_Swieze-p-500.webp 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318fe4a68928_Swieze.webp 1189w" class="text_block--img"/></div><div class="text_block--content"><div class="text_left__content center-mobile"><div class="symbol--richtext center-mobile w-richtext"><h4>Żywienie zbiorowe pracowników<br/><br/><br/><br/></h4><p>Współpracujemy z instytucjami i przedsiębiorcami działającymi na terenie Częstochowy w zakresie codziennego żywienia zbiorowego. Pomagamy zorganizować obiady w firmach zatrudniających od 50 do 500 pracowników. Ze względu na zróżnicowaną specyfikę obsługiwanych branż oferta kulinarna oraz warunki współpracy ustalane są indywidualnie z naszym przedstawicielem, tak aby dostosować je do grupy zawodowej, potrzeb pracowników oraz rodzaju wykonywanej przez nich pracy.</p><p><br/></p><p><br/><br/></p><p><br/></p></div></div></div></div></div></div><section class="testimonialsy"><div class="testimonials__wrapper"><div data-duration-in="450" data-duration-out="200" data-easing="ease-in-out" data-current="AR Packing" class="w-tabs"><div class="tabs-menu w-tab-menu"><a data-w-tab="HUF" rel="noreferrer" id="w-node-adcb4656-a357-6aba-69c5-1c898ef8c451-8ef8c44d" class="testimonial-tab-link w-inline-block w-tab-link"><img alt="HUF Polska logo" loading="lazy" src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31211ba68937_huf-logo.webp" class="testimonials__logo"/></a><a data-w-tab="AR Packing" rel="noreferrer" class="testimonial-tab-link w-inline-block w-tab-link w--current"><img sizes="140px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded310b67a6896b_ar-packing-logo-p-500.webp 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded310b67a6896b_ar-packing-logo.webp 820w" src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded310b67a6896b_ar-packing-logo.webp" loading="lazy" alt="AR Packing Logo" class="testimonials__logo"/></a><a data-w-tab="Henkel" rel="noreferrer" class="testimonial-tab-link w-inline-block w-tab-link"><img alt="Henkel Logo" loading="lazy" src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded316bd2a68935_henkel-logo.webp" class="testimonials__logo"/></a><a data-w-tab="medana" rel="noreferrer" class="testimonial-tab-link w-inline-block w-tab-link"><img sizes="140px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318e21a68965_medana-logo-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318e21a68965_medana-logo.webp 578w" src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded318e21a68965_medana-logo.webp" loading="lazy" alt="Medana Logo" class="testimonials__logo"/></a><a data-w-tab="PKP Energetyka" rel="noreferrer" class="testimonial-tab-link w-inline-block w-tab-link"><img sizes="140px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312129a6896c_pkp-energetyka-logo-p-500.png 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312129a6896c_pkp-energetyka-logo-p-800.png 800w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312129a6896c_pkp-energetyka-logo.webp 978w" src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded312129a6896c_pkp-energetyka-logo.webp" loading="lazy" alt="PKP Energetyka Logo" class="testimonials__logo"/></a></div><div class="tabs-content w-tab-content"><div data-w-tab="HUF" class="w-tab-pane"><div class="testimonmial__wrapper"><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e62-6f095e61" class="testimonial__avatar"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3178dda68952_krystian-irasiak.jpg" loading="lazy" alt="Fotografia portretowa - Krystian Irasiak" class="testimonial__avatar_img"/></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e64-6f095e61" class="testimonial__autor"><div class="text-body xl t-s-bold">Krystian Irasiak, Dyrektor HR, HUF Polska</div></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e69-6f095e61" class="testimonial__content"><div class="text-body xl">&quot;W branży automotive kwestia raportowania i statystyk jest dla nas bardzo ważna. Rozwiązanie SmartLunch perfekcyjnie wpisuje się w nasze wymagania, ponieważ koszty SmartLunch “podążają” za obecnością pracowników w firmie. Jeżeli mamy przestój letni i dużo urlopów, to koszty SmartLunch spadają. Kiedy pracujemy “pełną parą” koszty SmartLunch rosną, ale jest to poziom adekwatny do poziomu wzrostu sprzedaży. &quot;</div></div></div></div><div data-w-tab="AR Packing" class="w-tab-pane w--tab-active"><div class="testimonmial__wrapper"><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e62-6f095e61" class="testimonial__avatar"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31afa2a6892f_szymon-oszczud%C5%82owski.jpg" loading="lazy" alt="Fotografia portretowa - Szymon Oszczydłowski" class="testimonial__avatar_img"/></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e64-6f095e61" class="testimonial__autor"><div class="text-body xl t-s-bold">Szymon Oszczudłowski, Board Assistant, AR Packaging</div></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e69-6f095e61" class="testimonial__content"><div class="text-body xl">&quot;Cenię to, że SmartLunch jest bardzo prosty. Korzystanie z kiosku elektronicznego, w którym po przyłożeniu karty, dosłownie w sekundę można zamówić obiad jest bardzo wygodne dla pracowników produkcyjnych. Do tego aplikacja w telefonie, strona internetowa. Elastyczność Waszego rozwiązania zadecydowała o naszym wyborze.&quot;</div></div></div></div><div data-w-tab="Henkel" class="w-tab-pane"><div class="testimonmial__wrapper"><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e62-6f095e61" class="testimonial__avatar"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31044fa6893b_adrian_wycisk.webp" loading="lazy" alt="Fotografia portretowa - Adrian Wycisk" class="testimonial__avatar_img"/></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e64-6f095e61" class="testimonial__autor"><div class="text-body xl t-s-bold">Adrian Wycisk, Dyrektor, Członek Zarządu, Henkel Polska Operations Sp. z O.O.</div></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e69-6f095e61" class="testimonial__content"><div class="text-body xl">“Wprowadzenie SmartLunch zaczęło się od posiłków regeneracyjnych dla grupy pracowników. Wcześniej mogliśmy im je zapewnić jedynie w formie suchego prowiantu i napojów. Ze SmartLunch mogliśmy to rozszerzyć o ciepłe posiłki i zestawy obiadowe, utrzymując koszty na podobnym poziomie. Pracownicy sami zamawiają posiłki, na które mają akurat ochotę.”</div></div></div></div><div data-w-tab="medana" class="w-tab-pane"><div class="testimonmial__wrapper"><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e62-6f095e61" class="testimonial__avatar"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded31384ea6893d_tomasz_kolodziej.webp" loading="lazy" alt="Fotografia portretowa - Tomasz Kołodziej" class="testimonial__avatar_img"/></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e64-6f095e61" class="testimonial__autor"><div class="text-body xl t-s-bold">Tomasz Kołodziej, Kierownik Działu Administracji Medana S.A. </div></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e69-6f095e61" class="testimonial__content"><div class="text-body xl">“Epidemia wywróciła świat do góry nogami. W tak trudnym czasie rzetelna współpraca jest na wagę złota. SmartLunch nie zawiódł nas i wciąż dowozi posiłki dla naszych pracowników. Jedzenie jest odpowiednio zapakowane, a dostawca zawsze ma na sobie maseczkę i rękawiczki. Cieszymy się, że nasi pracownicy mają dostęp do bezpiecznych posiłków.”</div></div></div></div><div data-w-tab="PKP Energetyka" class="w-tab-pane"><div class="testimonmial__wrapper"><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e62-6f095e61" class="testimonial__avatar"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314068a68968_dorota_wisniewska.webp" loading="lazy" alt="Fotografia portretowa - Dorota Wiśniewska" sizes="(max-width: 479px) 75px, (max-width: 991px) 150px, 300px" srcset="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314068a68968_dorota_wisniewska-p-500.webp 500w, https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314068a68968_dorota_wisniewska.webp 501w" class="testimonial__avatar_img"/></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e64-6f095e61" class="testimonial__autor"><div class="text-body xl t-s-bold">Dorota Wiśniewska, Dyrektor Biura Administracji, PKP Energetyka</div></div><div id="w-node-_36d4e135-c40c-cb8d-0436-801d6f095e69-6f095e61" class="testimonial__content"><div class="text-body xl">“Dzięki doświadczeniu SmartLunch w organizacji posiłków, PKP Energetyka S.A. zapewniła pracownikom wysoki komfort ich pracy w trudnym okresie pandemii. Starania firmy spełniły nasze oczekiwania. Rekomendujemy firmę SmartLunch jako specjalistę w branży żywienia pracowników.”</div></div></div></div></div></div></div></section><div id="step-4" class="section non-margin-bottom"><div class="container"><div class="text_block"><div class="text_block--content center"><div class="symbol--richtext center-mobile w-richtext"><h4>Dlaczego Smartlunch<br/><br/><br/><br/></h4><p>SmartLunch to intuicyjna platforma z wieloma funkcjonalnościami umożliwiająca zamawianie jedzenia z różnych lokalnych restauracji posiłków dla pracowników i gości 24/7 za pomocą aplikacji mobilnej, internetowej lub SmartBoxu - czyli interaktywnego kiosku w Twoim zakładzie pracy.</p><p>W cateringu SmartLunch dowolnym miejscu i czasie masz wgląd do historii zamówień, raportu z podsumowaniem, ocen i komentarzy. Możliwość składania zamówień z kilkudniowym wyprzedzeniem pozwala pracownikom zaplanować posiłki na cały tydzień. Obiady dostarczane są zawsze ciepłe i na określoną godzinę.<br/></p></div></div><div id="w-node-_05abf96e-dcb7-30fe-8371-1f14c3a41d5d-c3a41d52" class="text-block-img-wrap"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb32d95a09e83eea0a940c_mapa-klientow-5ef3d9df6880d5629bc707d92fc7fd3c.webp" loading="lazy" width="100" alt="catering dla pracowników" class="text_block--img"/></div></div></div></div><div id="banner-bot" class="baner_bot"><div id="modal-footer" class="modal _4"><div id="modal-close" scroll="enable" class="modal__close w-embed"><svg viewBox="0 0 14 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1 1L13 13M1 13L13 1L1 13Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg></div><div><div class="container-hubspot-form-wyprobuj-za-darmo w-container"><div class="modal__main_copy"><div class="modal__heading"><div class="text-heading _200 hb-form-mobile"><strong>Skorzystaj z darmowego testu SmartLunch w Twojej firmie</strong></div></div></div><div class="html-embed-100 w-embed w-script"><script charset="utf-8" type="text/javascript" src="//js-eu1.hsforms.net/forms/embed/v2.js"></script>
+<script>
+  hbspt.forms.create({
+    region: "eu1",
+    portalId: "26664397",
+    formId: "79941948-940e-4540-b7fd-33f8001a5a8c"
+  });
+</script></div><div class="w-embed"><style>
+.container-hubspot-form-wyprobuj-za-darmo {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.container-hubspot-form-wyprobuj-za-darmo::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
+</style></div></div></div></div><div class="bb__banner"><div class="text-heading _300">Wypróbuj za darmo</div><div class="text-heading _500">Skorzystaj z darmowego testu SmartLunch w Twojej firmie</div><div scroll="disable" id="w-node-_1be7040e-e595-0e6d-f417-4091e377c4bc-861e080d" class="bb-banner-button"><a href="#" class="button special w-inline-block"><div class="text-action xl">Wyślij zapytanie</div></a></div></div><div class="bottom-banner-bg"></div></div><footer class="footer"><div class="footer__wrapper"><div id="w-node-_5d578d82-04d6-e1ed-9773-02d651772981-5177297f" class="footer__logo_info"><a rel="noreferrer" href="/" class="w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3172f7a6894f_Footer__Logo.svg" loading="lazy" alt="SmartLunch Logo Białe" class="footer__logo"/></a><div class="footer__adres"><div class="text-body f"><span class="text-span-80">ul. Kutnowska 1-3 53-135 Wrocław</span><br/><a href="mailto:biuro@smartlunch.pl" class="link-2">biuro@smartlunch.pl </a><br/><a href="tel:+48515162005" class="link">+48 515 162 005</a></div></div><div id="w-node-_5d578d82-04d6-e1ed-9773-02d651772988-5177297f" class="footer__sm_icons"><a aria-label="facebook" rel="noreferrer" href="https://www.facebook.com/SmartLunchPoland/" target="_blank" class="footer__sm_icon w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded316777a6894e_Footer__Facebook.svg" loading="lazy" alt="Facebook"/></a><a aria-label="Twitter" rel="noreferrer" href="https://twitter.com/firmasmartlunch" target="_blank" class="footer__sm_icon w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded3182e7a6894d_Footer__Twitter.svg" loading="lazy" alt="Twitter"/></a><a aria-label="LinkedIn" rel="noreferrer" href="https://pl.linkedin.com/company/smartlunch-sp--z-o-o-" class="footer__sm_icon w-inline-block"><img src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/60cb0e69aded314da9a68938_Linkedin.svg" loading="lazy" alt=""/></a></div></div><div id="w-node-_5d578d82-04d6-e1ed-9773-02d651772995-5177297f" class="footer__link_box"><div class="footer__text"><div class="text-body xl t-s-caps">sitemap</div></div><div id="w-node-_5d578d82-04d6-e1ed-9773-02d651772999-5177297f" class="footer__links"><a href="/" class="footer-button w-inline-block"><div class="text-action xl">Strona Główna</div></a><a href="/jak-to-dziala" class="footer-button w-inline-block"><div class="text-action xl">Jak to działa</div></a><a href="/koszt-dofinansowania-posilkow" class="footer-button w-inline-block"><div class="text-action xl">Ile to kosztuje</div></a><a href="/benefity" class="footer-button w-inline-block"><div class="text-action xl">Benefity</div></a><a href="https://www.smartlunch.pl/blog" class="footer-button w-inline-block"><div class="text-action xl">Blog</div></a></div></div><div id="w-node-_5d578d82-04d6-e1ed-9773-02d6517729a9-5177297f" class="footer__link_box"><div class="footer__text"><div class="text-body xl t-s-caps">SmartLunch</div></div><div id="w-node-_5d578d82-04d6-e1ed-9773-02d6517729ad-5177297f" class="footer__links"><a href="/kontakt" class="footer-button w-inline-block"><div class="text-action xl">Kontakt</div></a><a href="/polityka-prywatnosci" class="footer-button w-inline-block"><div class="text-action xl">Polityka prywatności</div></a><a href="/regulamin" class="footer-button w-inline-block"><div class="text-action xl">Regulamin</div></a><a rel="noreferrer" href="https://praca.smartlunch.pl/" target="_blank" class="footer-button hide w-inline-block"><div class="text-action xl">Kariera</div></a></div></div><div id="w-node-d560cb99-56ac-d45e-1727-a187c058a890-5177297f" class="footer__link_box"><div class="footer__text"><div class="text-body xl t-s-caps">case study</div></div><div class="w-dyn-list"><div role="list" class="footer__links w-dyn-items"><div role="listitem" class="w-dyn-item"><a href="/case-study/comex" class="footer-button w-inline-block"><div class="text-action xl">Comex</div></a></div><div role="listitem" class="w-dyn-item"><a href="/case-study/verpa-folie" class="footer-button w-inline-block"><div class="text-action xl">Verpa Folie</div></a></div></div></div></div><div id="w-node-_597d86c1-da37-b6f1-f631-a5a0a2307369-5177297f" class="footer-caterings"><a href="/catering-dla-firm-bialystok" class="footer-caterings--link w-inline-block"><div>Catering dla firm Białystok</div></a><a href="/catering-dla-firm-bielsko-biala" class="footer-caterings--link w-inline-block"><div>Catering dla firm Bielkso Biała</div></a><a href="/catering-dla-firm-bydgoszcz" class="footer-caterings--link w-inline-block"><div>Catering dla firm Bydgoszcz</div></a><a href="/catering-i-obiady-dla-firm-bytom" class="footer-caterings--link w-inline-block"><div>Catering dla firm Bytom</div></a><a href="/catering-dla-firm-czestochowa" aria-current="page" class="footer-caterings--link w-inline-block w--current"><div>Catering dla firm Częstochowa</div></a><a href="/catering-dla-firm-dabrowa-gornicza" class="footer-caterings--link w-inline-block"><div>Catering dla firm Dąbrowa Górnicza</div></a><a href="/catering-dla-firm-gdansk-gdynia-sopot" class="footer-caterings--link w-inline-block"><div>Catering dla firm Gdańsk Gdynia</div></a><a href="/catering-dla-firm-gliwice" class="footer-caterings--link w-inline-block"><div>Catering dla firm Gliwice</div></a><a href="/catering-dla-firm-jelenia-gora" class="footer-caterings--link w-inline-block"><div>Catering dla firm Jelenia Góra</div></a><a href="/obiady-dla-firm-krakow" class="footer-caterings--link w-inline-block"><div>Catering dla firm Kraków</div></a><a href="/catering-dla-firm-katowice" class="footer-caterings--link w-inline-block"><div>Catering dla firm Katowice</div></a><a href="/obiady-dla-firm-kielce" class="footer-caterings--link w-inline-block"><div>Catering dla firm Kielce</div></a><a href="/catering-dla-firm-lublin" class="footer-caterings--link w-inline-block"><div>Catering dla firm Lublin</div></a><a href="/obiady-dla-firm-lodz" class="footer-caterings--link w-inline-block"><div>Catering dla firm Łódź</div></a><a href="/catering-dla-firm-opole" class="footer-caterings--link w-inline-block"><div>Catering dla firm Opole</div></a><a href="/catering-i-obiady-dla-firm-plock" class="footer-caterings--link w-inline-block"><div>Catering dla firm Płock</div></a><a href="/catering-i-obiady-dla-firm-piaseczno" class="footer-caterings--link w-inline-block"><div>Catering dla firm Piaseczno</div></a><a href="/catering-i-obiady-dla-firm-poznan" class="footer-caterings--link w-inline-block"><div>Catering dla firm Poznań</div></a><a href="/catering-i-obiady-dla-firm-radom" class="footer-caterings--link w-inline-block"><div>Catering dla firm Radom</div></a><a href="/catering-i-obiady-dla-firm-ruda-slaska" class="footer-caterings--link w-inline-block"><div>Catering dla firm Ruda Śląska</div></a><a href="/catering-i-obiady-dla-firm-rzeszow" class="footer-caterings--link w-inline-block"><div>Catering dla firm Rzeszów</div></a><a href="/catering-dla-firm-sosnowiec" class="footer-caterings--link w-inline-block"><div>Catering dla firm Sosnowiec</div></a><a href="/catering-dla-firm-szczecin" class="footer-caterings--link w-inline-block"><div>Catering dla firm Szczecin</div></a><a href="/catering-dla-firm-tychy" class="footer-caterings--link w-inline-block"><div>Catering dla firm Tychy</div></a><a href="/catering-dla-firm-walbrzych" class="footer-caterings--link w-inline-block"><div>Catering dla firm Wałbrzych</div></a><a href="/catering-dla-firm-warszawa" class="footer-caterings--link w-inline-block"><div>Catering dla firm Warszawa</div></a><a href="/catering-dla-firm-wroclaw" class="footer-caterings--link w-inline-block"><div>Catering dla firm Wrocław</div></a><a href="/catering-i-obiady-dla-firm-zielona-gora" class="footer-caterings--link w-inline-block"><div>Catering dla firm Zielona Góra</div></a><a href="/catering-i-obiady-dla-firm-pruszkow" class="footer-caterings--link w-inline-block"><div>Catering dla firm Pruszków</div></a><a href="/catering-dla-firm-piotrkow-trybunalski" class="footer-caterings--link w-inline-block"><div>Catering dla firm Piotrków Trybunalski</div></a><a href="/catering-dla-firm-konin" class="footer-caterings--link w-inline-block"><div>Catering dla firm Konin</div></a><a href="/catering-dla-firm-rybnik" class="footer-caterings--link w-inline-block"><div>Catering dla firm Rybnik</div></a></div></div></footer><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=60cb0e69aded311a3aa687d6" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script><script src="https://cdn.prod.website-files.com/60cb0e69aded311a3aa687d6/js/smartlunch-2021.0479f2643.js" type="text/javascript"></script><script type="module" src="https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@0.6.2/lite-youtube.js"></script>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KS7J8D9" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- UTMs -->
+
+<script>
+  
+  var queryString = window.location.search;
+  console.log(queryString);
+  var URLSearchParams_wb = new URLSearchParams(queryString);
+
+  const utmParameters = [
+    "utm_source", 
+    "utm_medium", 
+    "utm_campaign",
+    "utm_content",
+    "utm_term"
+  ];
+
+  for (const utm_element of utmParameters) {
+    if(URLSearchParams_wb.has(utm_element)){
+      console.log(utm_element + "is exist");
+      var value = URLSearchParams_wb.get(utm_element)
+      $("."+utm_element).val(value);
+    }
+  }
+  
+</script>
+
+
+<!-- Page name input -->
+<script>
+
+var inputArray = document.getElementsByName("pagename");
+      for(var i = 0; i < inputArray.length; i++){
+        if(inputArray[i].getAttribute("pagename") != "button"){
+            inputArray[i].value = document.title
+        }
+      };
+
+</script>
+
+<!-- End UTMs -->
+
+
+
+<!-- Disable Scroll Script -->
+<!-- Disable Scroll Script -->
+<script>
+var Webflow = Webflow || [];
+Webflow.push(function () {
+    var $body = $(document.body);
+    var scrollPosition = 0;
+
+    $('[scroll="disable"]').on('click', function () {
+        var oldWidth = $body.innerWidth();
+        scrollPosition = window.pageYOffset;
+        $body.css('overflow', 'hidden');
+        $body.css('position', 'fixed');
+        $body.css('top', `-${scrollPosition}px`);
+        $body.width(oldWidth);
+    });
+    $('[scroll="enable"]').on('click', function () {
+        if ($body.css('overflow') != 'hidden') { scrollPosition = window.pageYOffset; }
+        $body.css('overflow', '');
+        $body.css('position', '');
+        $body.css('top', '');
+        $body.width('');
+        $(window).scrollTop(scrollPosition);
+    });
+    $('[scroll="both"]').on('click', function () {
+        if ($body.css('overflow') !== 'hidden') {
+            var oldWidth = $body.innerWidth();
+            scrollPosition = window.pageYOffset;
+            $body.css('overflow', 'hidden');
+            $body.css('position', 'fixed');
+            $body.css('top', `-${scrollPosition}px`);
+            $body.width(oldWidth);
+        } else {
+            $body.css('overflow', '');
+            $body.css('position', '');
+            $body.css('top', '');
+            $body.width('');
+            $(window).scrollTop(scrollPosition);
+        }
+    });
+});
+</script>
+<!-- End Disable Scroll Script -->
+
+<script>
+  $('.modal__form').submit(()=>{	
+  	$(this).find('.modal__body').toggleClass('modal__body');
+ });
+</script>
+
+<script>
+$('#t-search-button').click(function() { $('#w-search-button').click();
+ });
+</script>
+
+
+<script>
+jQuery(document).ready(function ($) {
+   $('.testimonial-tab-link').hover(
+  function() {
+    $( this ).click();
+  }
+);
+});
+</script>
+
+<script>
+jQuery(document).ready(function ($) {
+   $(".w-tab-content").swipe( {
+ swipeLeft:function(event, direction, distance, duration, fingerCount) {
+      $(".w-tab-menu a.w--current").next('a').click();
+    },
+ swipeRight:function(event, direction, distance, duration, fingerCount) {
+      $(".w-tab-menu a.w--current").prev('a').click();
+    },
+  });
+});
+
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/jquery.counterup@2.1.0/jquery.counterup.min.js"></script>
+
+<script>
+jQuery(document).ready(function ($) {
+    $('.counter').counterUp({
+    delay: 10,
+    time: 1500,
+    offset: 70,
+    beginAt: 0,
+    formatter: function (n) {
+      return n.replace(/,/g, ' ');
+     }
+		});
+});
+
+</script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+<script>
+const swiper = new Swiper('.swiper-nav', {
+  // ... your existing options ...
+  centeredSlides: true,
+  slidesPerView: 1,
+  loop: true,
+  pagination: true,
+  autoplay: true,
+
+  // Add navigation
+  navigation: {
+    nextEl: '.next-nav-slider',  // selector for your 'next' button
+    prevEl: '.prev-nav-slider',  // selector for your 'previous' button
+  },
+  // Add pagination
+  pagination: {
+    el: '.swiper-pagination',
+  },
+});
+</script></body></html>
